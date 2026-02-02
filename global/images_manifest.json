@@ -1,0 +1,17 @@
+{
+  "basePath": "global/images",
+  "files": [
+    {
+      "path": "Катани за спину.jpg",
+      "sha256": "96dfc87c5e34eb7eb740d8e9145eab62103389baa72457ff248160f64c04f778"
+    },
+    {
+      "path": "Ріжки чортиняти.jpg",
+      "sha256": "b7728521f6424097160c4ec6c0312b8b5d79bf3ededaf0fb63fd0dc2b526d648"
+    },
+    {
+      "path": "Overflod GEM.jpg",
+      "sha256": "f30aaa32c63c8b24e15e995c883e85dc0a43ef70323de4bb17e2e747f006cebd"
+    }
+  ]
+}
