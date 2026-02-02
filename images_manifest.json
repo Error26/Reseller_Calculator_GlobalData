@@ -1,0 +1,42 @@
+// generate_images_manifest.js
+const fs = require("fs");
+const path = require("path");
+const crypto = require("crypto");
+
+const imagesDir = path.join(__dirname, "global", "images");
+const outFile = path.join(__dirname, "global", "images_manifest.json");
+
+function sha256(filePath) {
+  const buf = fs.readFileSync(filePath);
+  return crypto.createHash("sha256").update(buf).digest("hex");
+}
+
+function walk(dir, baseDir) {
+  const entries = fs.readdirSync(dir, { withFileTypes: true });
+  const files = [];
+  for (const e of entries) {
+    const full = path.join(dir, e.name);
+    if (e.isDirectory()) {
+      files.push(...walk(full, baseDir));
+    } else {
+      const rel = path.relative(baseDir, full).replace(/\\/g, "/");
+      files.push({ path: rel, sha256: sha256(full) });
+    }
+  }
+  return files;
+}
+
+if (!fs.existsSync(imagesDir)) {
+  console.error("No images directory:", imagesDir);
+  process.exit(1);
+}
+
+const files = walk(imagesDir, imagesDir).sort((a, b) => a.path.localeCompare(b.path));
+
+const manifest = {
+  basePath: "global/images",
+  files
+};
+
+fs.writeFileSync(outFile, JSON.stringify(manifest, null, 2), "utf-8");
+console.log("Wrote:", outFile, "files:", files.length);
