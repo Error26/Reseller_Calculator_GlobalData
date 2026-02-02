@@ -1,0 +1,34 @@
+{
+  "transport": {
+    "auto": [
+      {
+        "name": "Overflod GEM",
+        "image": "global/images/Overflod GEM.jpg"
+      }
+    ],
+    "moto": [],
+    "avia": [],
+    "boat": [],
+    "bike": []
+  },
+  "realty": [],
+  "business": {
+    "business": [],
+    "sub_business": []
+  },
+  "clothes": {
+    "male": [
+      {
+        "name": "Катани за спину",
+        "image": "global/images/Катани за спину.jpg"
+      },
+      {
+        "name": "Ріжки чортиняти",
+        "image": "global/images/Ріжки чортиняти.jpg"
+      }
+    ],
+    "female": []
+  },
+  "items": [],
+  "services": []
+}
