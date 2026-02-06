@@ -567,7 +567,7 @@
       },
       {
         "name": "Bravado Charged FF",
-        "image": "global/images/s.jpg"
+        "image": "global/images/Bravado Charged FF.jpg"
       },
       {
         "name": "Cheval Venom",
@@ -872,9 +872,34 @@
       {
         "name": "Ubermacht F93 Gran Coupe",
         "image": "global/images/Ubermacht F93 Gran Coupe.jpg"
+      },
+      {
+        "name": "Overflod Reg",
+        "image": "global/images/Overflod Reg.jpg"
+      },
+      {
+        "name": "Benefactor E63 W213",
+        "image": "global/images/Benefactor E63 W213.jpg"
+      },
+      {
+        "name": "Ubermacht G70",
+        "image": "global/images/Ubermacht G70.jpg"
+      },
+      {
+        "name": "Lampadati MC20",
+        "image": "global/images/Lampadati MC20.jpg"
       }
     ],
-    "moto": [],
+    "moto": [
+      {
+        "name": "Pegassi V4R",
+        "image": "global/images/Pegassi V4R.jpg"
+      },
+      {
+        "name": "Ubermacht S1000",
+        "image": "global/images/Ubermacht S1000.jpg"
+      }
+    ],
     "avia": [
       {
         "name": "Buckingham CE120",
@@ -1353,36 +1378,86 @@
     "female_shoes": [],
     "male_accessories": [
       {
-        "name": "Катани за спину",
+        "name": "Катани за спину Червоні",
         "image": "global/images/Катани за спину.jpg"
       },
       {
-        "name": "Кобура подвійна, що світиться",
+        "name": "Кобура подвійна, що світиться Біла",
         "image": "global/images/Кобура подвійна, що світиться.jpg"
+      },
+      {
+        "name": "Кобура подвійна, що світиться Зелена",
+        "image": "global/images/Кобура подвійна, що світиться Зелена.jpg"
+      },
+      {
+        "name": "Подвійні сокири з підсвіткою Білі",
+        "image": "global/images/Подвійні сокири з підсвіткою Білі.jpg"
       }
     ],
     "female_accessories": [
       {
-        "name": "Катани за спину",
+        "name": "Катани за спину Червоні",
         "image": "global/images/Катани за спину.jpg"
+      },
+      {
+        "name": "Подвійні сокири з підсвіткою Білі",
+        "image": "global/images/Подвійні сокири з підсвіткою Білі.jpg"
+      },
+      {
+        "name": "Кобура подвійна, що світиться Зелена",
+        "image": "global/images/Кобура подвійна, що світиться Зелена.jpg"
+      },
+      {
+        "name": "Кобура подвійна, що світиться Біла",
+        "image": "global/images/Кобура подвійна, що світиться.jpg"
       }
     ],
     "male_tops": [],
     "female_tops": [],
     "unisex_bags": [],
     "unisex_masks": [],
-    "male_armor": [],
-    "female_armor": [],
+    "male_armor": [
+      {
+        "name": "Плитоноска Balemciaga Чорний",
+        "image": "global/images/Плитоноска Balemciaga Чорний.jpg"
+      }
+    ],
+    "female_armor": [
+      {
+        "name": "Плитоноска Balemciaga Чорний",
+        "image": "global/images/Плитоноска Balemciaga Чорний.jpg"
+      }
+    ],
     "male_headwear": [
       {
-        "name": "Ріжки чортиняти",
+        "name": "Ріжки чортиняти Тіфані",
         "image": "global/images/Ріжки чортиняти.jpg"
+      },
+      {
+        "name": "Роги Devil Чорні",
+        "image": "global/images/Роги Devil Чорні.jpg"
+      },
+      {
+        "name": "Ріжки чортеняти Світло-рожеві",
+        "image": "global/images/Ріжки чортеняти Світло-рожеві.jpg"
+      },
+      {
+        "name": "Шапка Vataga 1",
+        "image": "global/images/Шапка Vataga 1.jpg"
       }
     ],
     "female_headwear": [
       {
-        "name": "Катани за спину",
-        "image": "global/images/Катани за спину.jpg"
+        "name": "Ріжки чортиняти Тіфані",
+        "image": "global/images/Ріжки чортиняти.jpg"
+      },
+      {
+        "name": "Роги Devil Чорні",
+        "image": "global/images/Роги Devil Чорні.jpg"
+      },
+      {
+        "name": "Ріжки чортеняти Світло-рожеві",
+        "image": "global/images/Ріжки чортеняти Світло-рожеві.jpg"
       }
     ],
     "male_glasses": [],

@@ -18,6 +18,10 @@
       "sha256": "96dfc87c5e34eb7eb740d8e9145eab62103389baa72457ff248160f64c04f778"
     },
     {
+      "path": "Кобура подвійна, що світиться Зелена.jpg",
+      "sha256": "9616c0603fab1b662fed94f3b8639c68d16089fb4bece0c474ac67fa5ba5ea0c"
+    },
+    {
       "path": "Кобура подвійна, що світиться.jpg",
       "sha256": "efde066ec5c4877bf14d995286449a193f76f12774d096121fc0260160e01018"
     },
@@ -26,8 +30,28 @@
       "sha256": "3c1cd744a2622c79578a7946805bde12ec7c84b355bc3f20a4fdf504aa15ee67"
     },
     {
+      "path": "Плитоноска Balemciaga Чорний.jpg",
+      "sha256": "c5128cbeffd83fd072ce2f8b0b45a9a7359b0ca3d5a1f4ecff81c735bb9e2329"
+    },
+    {
+      "path": "Подвійні сокири з підсвіткою Білі.jpg",
+      "sha256": "9b4a6d8d713bac42d8c41fa0afa5b2020b205708e12fa84c65b3a04454f92de6"
+    },
+    {
+      "path": "Ріжки чортеняти Світло-рожеві.jpg",
+      "sha256": "6cf9a0dd5e38294ec93054f94914c058b1f65afa832523434feb240f922ae4a4"
+    },
+    {
       "path": "Ріжки чортиняти.jpg",
       "sha256": "b7728521f6424097160c4ec6c0312b8b5d79bf3ededaf0fb63fd0dc2b526d648"
+    },
+    {
+      "path": "Роги Devil Чорні.jpg",
+      "sha256": "8220ccb70cc005005d9613a77b1a5110ecb777f3153eefd3a550535f5e57c162"
+    },
+    {
+      "path": "Шапка Vataga 1.jpg",
+      "sha256": "630ee44a91913fff3b81a94a9c93d24ea37cfb126064a9065404c5184b7bf529"
     },
     {
       "path": "Шорти Black.jpg",
@@ -116,6 +140,10 @@
     {
       "path": "Benefactor E63 W212.jpg",
       "sha256": "f7f11401f7b2221fcee5b4d87ac73a2947d0fbac4bf8c3b7f56fadb8a386f5d3"
+    },
+    {
+      "path": "Benefactor E63 W213.jpg",
+      "sha256": "1bb588dd4339a89deead5b43999da5550c0fa99221ee1e9cf91d920ea6733a5d"
     },
     {
       "path": "Benefactor EQG.jpg",
@@ -220,6 +248,10 @@
     {
       "path": "Bravado Challenge.jpg",
       "sha256": "a8e5c66d20ac3560d120758c73be34495ac85adc56505674fc4cf878a00ca7a7"
+    },
+    {
+      "path": "Bravado Charged FF.jpg",
+      "sha256": "a15a6acd63c02f5cd29cd0f3e5d62976d7232cba4b73d90ed49124a191e9943c"
     },
     {
       "path": "Bravado Charged.jpg",
@@ -546,6 +578,10 @@
       "sha256": "af530aede0fb28eb51295a55fd5eb2082d13518837fcfaf470e50cd5ee40ab73"
     },
     {
+      "path": "Lampadati MC20.jpg",
+      "sha256": "ea563e1c8cb8365a8519dbd2d2851e25d00370b356d4ccaececcf90d821ddc25"
+    },
+    {
       "path": "Lampadati Toro.jpg",
       "sha256": "e6ddd92f963d3927d10e4f2ccc7df98a6dfaa6572338e5063dea1aa4ec063695"
     },
@@ -638,6 +674,10 @@
       "sha256": "fe50f13e3403e2944d6bda8dcc0113a307ac89a31d59547ced55dd7e11b1b16e"
     },
     {
+      "path": "Overflod Reg.jpg",
+      "sha256": "30e3bb83a00fc533108ed39dda4f52e3ac95de7e3d4114753dd4b6948cd44e1a"
+    },
+    {
       "path": "Pegassi Aven.jpg",
       "sha256": "50bc0d91fc966d2d452e3f4dd0517c0f2dc48a888aeca823d5f2067607af68cf"
     },
@@ -700,6 +740,10 @@
     {
       "path": "Pegassi Turus.jpg",
       "sha256": "b7072bc36cd7639afda6b269675f6dc329a232a5017b76b9c97863afbf377c15"
+    },
+    {
+      "path": "Pegassi V4R.jpg",
+      "sha256": "825e9ea86023aea69c09eb8f90d9a19b5b9b8887dc592bc5d0b90a0267d58222"
     },
     {
       "path": "Pfister 718 Caymen GT4.jpg",
@@ -882,6 +926,10 @@
       "sha256": "29b977ba28a4c02384822953c083b9de6c06d0df9002eeaa08263f0762b606f1"
     },
     {
+      "path": "Ubermacht G70.jpg",
+      "sha256": "8f1d2f29a674fe3b38aec3d5418f589e160e80c71c9cf2facfa86340babb2f8a"
+    },
+    {
       "path": "Ubermacht G81 Touring Competition.jpg",
       "sha256": "53eec1a7e2060bad3e46d548aefe027da61726f8894aa1bdc304668556cb6b97"
     },
@@ -900,6 +948,10 @@
     {
       "path": "Ubermacht IX.jpg",
       "sha256": "293ee28711f1b1700ae103a9ab8634c1bc35ffc128a41377f0b4a828542994e3"
+    },
+    {
+      "path": "Ubermacht S1000.jpg",
+      "sha256": "520ea220dc23fbccc8252c418c53c7ad232ac155b9460559049f24f4bd279707"
     },
     {
       "path": "Umbermacht E60.jpg",
